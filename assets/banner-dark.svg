@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#171A1F"/><stop offset="1" stop-color="#1C2A25"/>
+  </linearGradient>
+  <clipPath id="frame"><rect width="1200" height="400" rx="24"/></clipPath>
+</defs>
+<style>
+  .pulse { fill:none; stroke:#F0A45C; stroke-width:4; stroke-linecap:round;
+           stroke-dasharray:36 900; animation: flow 4.5s linear infinite; }
+  @keyframes flow { from { stroke-dashoffset: 936; } to { stroke-dashoffset: 0; } }
+  .led { animation: blink 1.6s ease-in-out infinite; }
+  @keyframes blink { 0%,100% { opacity:1; } 50% { opacity:.25; } }
+  .cat { animation: bob 3.2s ease-in-out infinite; transform-origin: 905px 170px; }
+  @keyframes bob { 0%,100% { transform: rotate(-2deg); } 50% { transform: rotate(2deg); } }
+  .tail { animation: wag 2.4s ease-in-out infinite; transform-origin: 1000px 185px; }
+  @keyframes wag { 0%,100% { transform: rotate(0deg); } 50% { transform: rotate(14deg); } }
+  .eyes { animation: shut 5s ease-in-out infinite; transform-origin: 905px 118px; }
+  @keyframes shut { 0%,92%,100% { transform: scaleY(1); } 96% { transform: scaleY(.2); } }
+</style>
+<g clip-path="url(#frame)">
+<rect width="1200" height="400" fill="url(#bg)"/>
+<path d="M810 210 H750 V70 H610" fill="none" stroke="#2F3A38" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="610" cy="70" r="8" fill="#171A1F" stroke="#3C4946" stroke-width="4"/>
+<path class="pulse" d="M810 210 H750 V70 H610" style="animation-delay:-0.0s"/>
+<path d="M810 250 H725 V150 H540" fill="none" stroke="#2F3A38" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="540" cy="150" r="8" fill="#171A1F" stroke="#3C4946" stroke-width="4"/>
+<path class="pulse" d="M810 250 H725 V150 H540" style="animation-delay:-0.7s"/>
+<path d="M810 290 H700 V330 H520" fill="none" stroke="#2F3A38" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="520" cy="330" r="8" fill="#171A1F" stroke="#3C4946" stroke-width="4"/>
+<path class="pulse" d="M810 290 H700 V330 H520" style="animation-delay:-1.4s"/>
+<path d="M810 330 H675 V385 H640" fill="none" stroke="#2F3A38" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="640" cy="385" r="8" fill="#171A1F" stroke="#3C4946" stroke-width="4"/>
+<path class="pulse" d="M810 330 H675 V385 H640" style="animation-delay:-2.1s"/>
+<path d="M1000 210 H1040 V60 H1200" fill="none" stroke="#2F3A38" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="pulse" d="M1000 210 H1040 V60 H1200" style="animation-delay:-2.8s"/>
+<path d="M1000 270 H1070 V200 H1200" fill="none" stroke="#2F3A38" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="pulse" d="M1000 270 H1070 V200 H1200" style="animation-delay:-3.5s"/>
+<path d="M1000 330 H1100 V380 H1200" fill="none" stroke="#2F3A38" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="pulse" d="M1000 330 H1100 V380 H1200" style="animation-delay:-4.2s"/>
+<path d="M855 365 V425 H720 V400" fill="none" stroke="#2F3A38" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="pulse" d="M855 365 V425 H720 V400" style="animation-delay:-4.9s"/>
+<path d="M955 365 V405 H1110 V400" fill="none" stroke="#2F3A38" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="pulse" d="M955 365 V405 H1110 V400" style="animation-delay:-5.6s"/>
+<rect x="796" y="197" width="14" height="10" rx="2" fill="#B8A898"/>
+<rect x="1000" y="197" width="14" height="10" rx="2" fill="#B8A898"/>
+<rect x="832" y="365" width="10" height="14" rx="2" fill="#B8A898"/>
+<rect x="796" y="226" width="14" height="10" rx="2" fill="#B8A898"/>
+<rect x="1000" y="226" width="14" height="10" rx="2" fill="#B8A898"/>
+<rect x="861" y="365" width="10" height="14" rx="2" fill="#B8A898"/>
+<rect x="796" y="255" width="14" height="10" rx="2" fill="#B8A898"/>
+<rect x="1000" y="255" width="14" height="10" rx="2" fill="#B8A898"/>
+<rect x="890" y="365" width="10" height="14" rx="2" fill="#B8A898"/>
+<rect x="796" y="284" width="14" height="10" rx="2" fill="#B8A898"/>
+<rect x="1000" y="284" width="14" height="10" rx="2" fill="#B8A898"/>
+<rect x="919" y="365" width="10" height="14" rx="2" fill="#B8A898"/>
+<rect x="796" y="313" width="14" height="10" rx="2" fill="#B8A898"/>
+<rect x="1000" y="313" width="14" height="10" rx="2" fill="#B8A898"/>
+<rect x="948" y="365" width="10" height="14" rx="2" fill="#B8A898"/>
+<rect x="796" y="342" width="14" height="10" rx="2" fill="#B8A898"/>
+<rect x="1000" y="342" width="14" height="10" rx="2" fill="#B8A898"/>
+<rect x="977" y="365" width="10" height="14" rx="2" fill="#B8A898"/>
+<rect x="810" y="181" width="190" height="190" rx="20" fill="#000" opacity=".15"/>
+<rect x="810" y="175" width="190" height="190" rx="20" fill="#2E2A28"/>
+<rect x="832" y="197" width="146" height="146" rx="12" fill="none" stroke="#4A423C" stroke-width="3"/>
+<text x="905.0" y="283" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="30" font-weight="700" fill="#F0A45C">NPU</text>
+<text x="905.0" y="313" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="15" fill="#A3968C">INT8 · 3.2ms</text>
+<circle class="led" cx="846" cy="333" r="7" fill="#7FBFA4"/>
+<g class="tail"><path d="M985 190 q70 -10 60 -80 q-6 -30 -28 -26" fill="none" stroke="#F0A45C" stroke-width="22" stroke-linecap="round"/></g>
+<g class="cat">
+  <ellipse cx="905" cy="182" rx="80" ry="30" fill="#E8964F"/>
+  <path d="M835 110 L845 35 L890 72z" fill="#F0A45C"/><path d="M975 110 L965 35 L920 72z" fill="#F0A45C"/>
+  <path d="M848 52 L853 88 L876 76z" fill="#F7C9B6"/><path d="M962 52 L957 88 L934 76z" fill="#F7C9B6"/>
+  <ellipse cx="905" cy="120" rx="88" ry="72" fill="#F0A45C"/>
+  <path d="M893 52 q12 16 24 0 q-3 20 -12 26 q-9 -6 -12 -26z" fill="#D9853E"/>
+  <ellipse cx="905" cy="148" rx="46" ry="32" fill="#FFF3E6"/>
+  <g class="eyes" fill="none" stroke="#2E2A28" stroke-width="6" stroke-linecap="round">
+    <path d="M862 118 q12 -12 24 0"/><path d="M924 118 q12 -12 24 0"/>
+  </g>
+  <path d="M899 138 h12 l-6 7z" fill="#E0707A"/>
+  <path d="M905 145 q-6 11 -15 6 M905 145 q6 11 15 6" fill="none" stroke="#2E2A28" stroke-width="4" stroke-linecap="round"/>
+  <ellipse cx="850" cy="140" rx="12" ry="7" fill="#F28B7A" opacity=".55"/>
+  <ellipse cx="960" cy="140" rx="12" ry="7" fill="#F28B7A" opacity=".55"/>
+  <ellipse cx="872" cy="192" rx="20" ry="12" fill="#FFF3E6"/><ellipse cx="938" cy="192" rx="20" ry="12" fill="#FFF3E6"/>
+</g>
+<text x="70" y="165" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="58" font-weight="800" fill="#F5EDE4">Hi, I'm SungJun</text>
+<text x="72" y="215" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="28" font-weight="700" fill="#F0A45C">Embedded AI Engineer</text>
+<text x="72" y="262" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="18" fill="#A3968C">C / C++ · on-device inference · NPU</text>
+<text x="72" y="290" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="18" fill="#A3968C">making models run on tiny hardware</text>
+</g>
+</svg>

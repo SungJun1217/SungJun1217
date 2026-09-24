@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="450" viewBox="0 0 900 450">
+<style>
+  text { font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace; font-size:15px; white-space:pre; }
+  .cur { animation: cur 1s steps(1) infinite; }
+  @keyframes cur { 50% { opacity:0; } }
+</style>
+<rect x="1" y="1" width="898" height="448" rx="14" fill="#1B1917" stroke="#3A332E" stroke-width="2"/>
+<path d="M1 15 a14 14 0 0 1 14 -14 H885 a14 14 0 0 1 14 14 V38 H1z" fill="#26221F"/>
+<circle cx="26" cy="20" r="6.5" fill="#FF5F57"/><circle cx="48" cy="20" r="6.5" fill="#FEBC2E"/><circle cx="70" cy="20" r="6.5" fill="#28C840"/>
+<text x="450.0" y="25" text-anchor="middle" fill="#6F665F" style="font-size:13px">sungjun@edge-board: ~</text>
+<style>@keyframes l0 { 0%,2.22% { opacity:0; } 2.28%,94% { opacity:1; } 98%,100% { opacity:0; } } .l0 { animation: l0 18.0s linear infinite; }
+@keyframes l1 { 0%,5.28% { opacity:0; } 5.33%,94% { opacity:1; } 98%,100% { opacity:0; } } .l1 { animation: l1 18.0s linear infinite; }
+@keyframes l2 { 0%,8.33% { opacity:0; } 8.39%,94% { opacity:1; } 98%,100% { opacity:0; } } .l2 { animation: l2 18.0s linear infinite; }
+@keyframes l3 { 0%,11.39% { opacity:0; } 11.44%,94% { opacity:1; } 98%,100% { opacity:0; } } .l3 { animation: l3 18.0s linear infinite; }
+@keyframes l4 { 0%,14.44% { opacity:0; } 14.50%,94% { opacity:1; } 98%,100% { opacity:0; } } .l4 { animation: l4 18.0s linear infinite; }
+@keyframes l5 { 0%,17.50% { opacity:0; } 17.56%,94% { opacity:1; } 98%,100% { opacity:0; } } .l5 { animation: l5 18.0s linear infinite; }
+@keyframes l7 { 0%,23.33% { opacity:0; } 23.39%,94% { opacity:1; } 98%,100% { opacity:0; } } .l7 { animation: l7 18.0s linear infinite; }
+@keyframes m7 { 0% { transform:translateX(0); } 23.33% { transform:translateX(0.0px); } 23.72% { transform:translateX(9.0px); } 24.11% { transform:translateX(18.1px); } 24.50% { transform:translateX(27.1px); } 24.89% { transform:translateX(36.1px); } 25.28% { transform:translateX(45.1px); } 25.67% { transform:translateX(54.2px); } 100% { transform:translateX(58.2px); } } .m7 { animation: m7 18.0s steps(1,end) infinite; }
+@keyframes l8 { 0%,27.61% { opacity:0; } 27.67%,94% { opacity:1; } 98%,100% { opacity:0; } } .l8 { animation: l8 18.0s linear infinite; }
+@keyframes l9 { 0%,30.67% { opacity:0; } 30.72%,94% { opacity:1; } 98%,100% { opacity:0; } } .l9 { animation: l9 18.0s linear infinite; }
+@keyframes m9 { 0% { transform:translateX(0); } 30.67% { transform:translateX(0.0px); } 31.06% { transform:translateX(9.0px); } 31.44% { transform:translateX(18.1px); } 31.83% { transform:translateX(27.1px); } 32.22% { transform:translateX(36.1px); } 32.61% { transform:translateX(45.1px); } 33.00% { transform:translateX(54.2px); } 33.39% { transform:translateX(63.2px); } 33.78% { transform:translateX(72.2px); } 34.17% { transform:translateX(81.3px); } 34.56% { transform:translateX(90.3px); } 34.94% { transform:translateX(99.3px); } 35.33% { transform:translateX(108.4px); } 35.72% { transform:translateX(117.4px); } 100% { transform:translateX(121.4px); } } .m9 { animation: m9 18.0s steps(1,end) infinite; }
+@keyframes l10 { 0%,37.67% { opacity:0; } 37.72%,94% { opacity:1; } 98%,100% { opacity:0; } } .l10 { animation: l10 18.0s linear infinite; }
+@keyframes l11 { 0%,40.72% { opacity:0; } 40.78%,94% { opacity:1; } 98%,100% { opacity:0; } } .l11 { animation: l11 18.0s linear infinite; }
+@keyframes m11 { 0% { transform:translateX(0); } 40.72% { transform:translateX(0.0px); } 41.11% { transform:translateX(9.0px); } 41.50% { transform:translateX(18.1px); } 41.89% { transform:translateX(27.1px); } 42.28% { transform:translateX(36.1px); } 42.67% { transform:translateX(45.1px); } 43.06% { transform:translateX(54.2px); } 43.44% { transform:translateX(63.2px); } 43.83% { transform:translateX(72.2px); } 44.22% { transform:translateX(81.3px); } 44.61% { transform:translateX(90.3px); } 45.00% { transform:translateX(99.3px); } 45.39% { transform:translateX(108.4px); } 45.78% { transform:translateX(117.4px); } 46.17% { transform:translateX(126.4px); } 46.56% { transform:translateX(135.4px); } 46.94% { transform:translateX(144.5px); } 47.33% { transform:translateX(153.5px); } 47.72% { transform:translateX(162.5px); } 48.11% { transform:translateX(171.6px); } 48.50% { transform:translateX(180.6px); } 48.89% { transform:translateX(189.6px); } 100% { transform:translateX(193.6px); } } .m11 { animation: m11 18.0s steps(1,end) infinite; }
+@keyframes l12 { 0%,50.83% { opacity:0; } 50.89%,94% { opacity:1; } 98%,100% { opacity:0; } } .l12 { animation: l12 18.0s linear infinite; }
+@keyframes l13 { 0%,53.89% { opacity:0; } 53.94%,94% { opacity:1; } 98%,100% { opacity:0; } } .l13 { animation: l13 18.0s linear infinite; }</style>
+<g class="l0"><text x="28" y="62"><tspan fill="#6F665F">[    0.000000] </tspan><tspan fill="#EDE3D9">Booting Linux on ARM Cortex-A ...</tspan></text>
+</g>
+<g class="l1"><text x="28" y="88"><tspan fill="#6F665F">[    0.412331] </tspan><tspan fill="#EDE3D9">npu: driver loaded, 3 cores online</tspan></text>
+</g>
+<g class="l2"><text x="28" y="114"><tspan fill="#7FBFA4">[  OK  ] </tspan><tspan fill="#EDE3D9">Loaded model      </tspan><tspan fill="#F0A45C">detector.onnx</tspan><tspan fill="#6F665F">  fp32 · 24.1 MB</tspan></text>
+</g>
+<g class="l3"><text x="28" y="140"><tspan fill="#7FBFA4">[  OK  ] </tspan><tspan fill="#EDE3D9">Quantized         </tspan><tspan fill="#F0A45C">INT8</tspan><tspan fill="#6F665F">           6.2 MB · -74%</tspan></text>
+</g>
+<g class="l4"><text x="28" y="166"><tspan fill="#7FBFA4">[  OK  ] </tspan><tspan fill="#EDE3D9">Compiled graph    </tspan><tspan fill="#F0A45C">142 ops fused</tspan><tspan fill="#6F665F">  → NPU</tspan></text>
+</g>
+<g class="l5"><text x="28" y="192"><tspan fill="#F0A45C">[ INFO ] </tspan><tspan fill="#EDE3D9">inference: </tspan><tspan fill="#7FBFA4">3.2 ms/frame</tspan><tspan fill="#EDE3D9"> @ </tspan><tspan fill="#7FBFA4">312 FPS</tspan></text>
+</g>
+<g class="l7"><text x="28" y="244"><tspan fill="#7FBFA4">$ </tspan><tspan fill="#EDE3D9">whoami</tspan></text>
+<rect class="m7" x="46.1" y="229" width="66.2" height="26" fill="#1B1917"/>
+</g>
+<g class="l8"><text x="28" y="270"><tspan fill="#EDE3D9">SungJun · Embedded AI Engineer, porting AI models to edge devices</tspan></text>
+</g>
+<g class="l9"><text x="28" y="296"><tspan fill="#7FBFA4">$ </tspan><tspan fill="#EDE3D9">cat stack.txt</tspan></text>
+<rect class="m9" x="46.1" y="281" width="129.4" height="26" fill="#1B1917"/>
+</g>
+<g class="l10"><text x="28" y="322"><tspan fill="#EDE3D9">C/C++ · ONNX Runtime · TFLite · TensorRT · Jetson · NPU SDKs</tspan></text>
+</g>
+<g class="l11"><text x="28" y="348"><tspan fill="#7FBFA4">$ </tspan><tspan fill="#EDE3D9">cat side_projects.txt</tspan></text>
+<rect class="m11" x="46.1" y="333" width="201.6" height="26" fill="#1B1917"/>
+</g>
+<g class="l12"><text x="28" y="374"><tspan fill="#EDE3D9">tooling for AI coding agents · Claude Code · Codex</tspan></text>
+</g>
+<g class="l13"><text x="28" y="400"><tspan fill="#7FBFA4">$ </tspan></text>
+<rect class="cur" x="46.1" y="387" width="9" height="17" fill="#7FBFA4"/>
+</g>
+</svg>

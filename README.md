@@ -1,19 +1,23 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:CFE8DC,100:F0A45C&height=200&section=header&text=Hi,%20I'm%20SungJun%20👋&fontSize=46&fontColor=2E2A28&fontAlignY=38&desc=Embedded%20AI%20Engineer&descAlignY=58&descSize=18" width="100%" />
-
-<a href="https://github.com/SungJun1217">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=F0A45C&center=true&vCenter=true&width=600&lines=Porting+AI+models+to+embedded+devices;C+%2F+C%2B%2B+%C2%B7+Python+%C2%B7+TypeScript;Building+tools+for+coding+agents+on+the+side" alt="Typing SVG" />
-</a>
-
-<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg" />
+  <img src="assets/banner-light.svg" width="100%" alt="Hi, I'm SungJun, Embedded AI Engineer" />
+</picture>
 
 <img src="https://komarev.com/ghpvc/?username=SungJun1217&style=flat-square&color=F0A45C&label=profile+views" alt="profile views" />
 <a href="https://github.com/SungJun1217?tab=followers"><img src="https://img.shields.io/github/followers/SungJun1217?style=flat-square&color=7FBFA4&label=followers" alt="followers" /></a>
 
-</div>
+<br/><br/>
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/boot-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/boot-light.svg" />
+  <img src="assets/boot-light.svg" width="780" alt="Boot log: loading an ONNX model, quantizing to INT8, running on an NPU at 3.2 ms per frame" />
+</picture>
+
+</div>
 
 ## 🧑‍💻 About Me
 
@@ -26,40 +30,24 @@
 
 <div align="center">
 
-**Languages**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c,cpp,python,ts,js,go,rust,cmake,pytorch,tensorflow,linux,apple,githubactions,bun&perline=7&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=c,cpp,python,ts,js,go,rust,cmake,pytorch,tensorflow,linux,apple,githubactions,bun&perline=7&theme=light" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,ts,js,go,rust,cmake,pytorch,tensorflow,linux,apple,githubactions,bun&perline=7&theme=light" alt="tech stack icons" />
+</picture>
 
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+<br/><br/>
 
-**AI / Embedded**
+**On-device inference & hardware**
 
-<img src="https://img.shields.io/badge/Embedded_AI-F0A45C?style=for-the-badge&logo=arm&logoColor=white" />
-<img src="https://img.shields.io/badge/ONNX_Runtime-005CED?style=for-the-badge&logo=onnx&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-<img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-
-**Hardware**
-
-<img src="https://img.shields.io/badge/ARM_Cortex-0091BD?style=for-the-badge&logo=arm&logoColor=white" />
-<img src="https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-<img src="https://img.shields.io/badge/NPU_SDKs-F0A45C?style=for-the-badge" />
-
-**Tools**
-
-<img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" />
-<img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" />
-<img src="https://img.shields.io/badge/Bazel-43A047?style=for-the-badge&logo=bazel&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-<img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/ONNX_Runtime-005CED?style=flat-square&logo=onnx&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white" />
+<img src="https://img.shields.io/badge/NPU_SDKs-F0A45C?style=flat-square" />
+<img src="https://img.shields.io/badge/ARM_Cortex-0091BD?style=flat-square&logo=arm&logoColor=white" />
+<img src="https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=flat-square&logo=nvidia&logoColor=white" />
+<img src="https://img.shields.io/badge/Bazel-43A047?style=flat-square&logo=bazel&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" />
 
 </div>
 
@@ -67,9 +55,17 @@
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/SungJun1217/SungJun1217/output/profile-3d-contrib/profile-green-animate.svg" alt="3D contribution graph with stats" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SungJun1217/SungJun1217/output/profile-3d-contrib/profile-night-green.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SungJun1217/SungJun1217/output/profile-3d-contrib/profile-green-animate.svg" />
+  <img width="100%" src="https://raw.githubusercontent.com/SungJun1217/SungJun1217/output/profile-3d-contrib/profile-green-animate.svg" alt="3D contribution graph with stats" />
+</picture>
 
-<img src="https://streak-stats.demolab.com?user=SungJun1217&hide_border=true&background=FFF8F0&ring=F0A45C&fire=F0A45C&currStreakLabel=D9853E&sideLabels=2E2A28&currStreakNum=2E2A28&sideNums=2E2A28&dates=7A6E66&stroke=E8D8C8" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=SungJun1217&hide_border=true&background=1B1917&ring=F0A45C&fire=F0A45C&currStreakLabel=F0A45C&sideLabels=EDE3D9&currStreakNum=EDE3D9&sideNums=EDE3D9&dates=A3968C&stroke=3A332E" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=SungJun1217&hide_border=true&background=FFF8F0&ring=F0A45C&fire=F0A45C&currStreakLabel=D9853E&sideLabels=2E2A28&currStreakNum=2E2A28&sideNums=2E2A28&dates=7A6E66&stroke=E8D8C8" />
+  <img src="https://streak-stats.demolab.com?user=SungJun1217&hide_border=true&background=FFF8F0&ring=F0A45C&fire=F0A45C&currStreakLabel=D9853E&sideLabels=2E2A28&currStreakNum=2E2A28&sideNums=2E2A28&dates=7A6E66&stroke=E8D8C8" alt="GitHub streak" />
+</picture>
 
 </div>
 
