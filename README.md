@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:CFE8DC,100:F0A45C&height=200&section=header&text=Hi,%20I'm%20SungJun%20👋&fontSize=46&fontColor=2E2A28&fontAlignY=38&desc=Building%20tools%20for%20coding%20agents&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:CFE8DC,100:F0A45C&height=200&section=header&text=Hi,%20I'm%20SungJun%20👋&fontSize=46&fontColor=2E2A28&fontAlignY=38&desc=Embedded%20AI%20Engineer&descAlignY=58&descSize=18" width="100%" />
 
 <a href="https://github.com/SungJun1217">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=F0A45C&center=true&vCenter=true&width=600&lines=Claude+Code+%26+Codex+power+user;Agent+harnesses+%C2%B7+plugins+%C2%B7+CLIs;Python+%C2%B7+TypeScript+%C2%B7+Go" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=F0A45C&center=true&vCenter=true&width=600&lines=Porting+AI+models+to+embedded+devices;C+%2F+C%2B%2B+%C2%B7+Python+%C2%B7+TypeScript;Building+tools+for+coding+agents+on+the+side" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -17,9 +17,9 @@
 
 ## 🧑‍💻 About Me
 
-- 🤖 I build tooling that makes **AI coding agents** work better together
-- 🔀 Currently hacking on multi-agent workflows across **Claude Code** and **Codex**
-- 🧩 Interested in developer experience, CLIs, and agent harness design
+- 🔧 **Embedded AI engineer**: I port and optimize AI models to run on embedded devices
+- ⚡ Writing **C / C++** for on-device inference, **Python** for model-side work
+- 🤖 On the side, I build tooling for AI coding agents (**Claude Code**, **Codex**)
 - 🌏 Based in Korea
 
 ## 🛠 Tech Stack
@@ -28,20 +28,24 @@
 
 **Languages**
 
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
 <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
 
-**AI / ML**
+**AI / Embedded**
 
 <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/Embedded_AI-F0A45C?style=for-the-badge&logo=arm&logoColor=white" />
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 
 **Tools**
 
+<img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" />
 <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" />
 <img src="https://img.shields.io/badge/Bazel-43A047?style=for-the-badge&logo=bazel&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
