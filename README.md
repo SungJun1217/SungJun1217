@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:3b82f6,100:8b5cf6&height=200&section=header&text=Hi,%20I'm%20SungJun%20👋&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Building%20tools%20for%20coding%20agents&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:CFE8DC,100:F0A45C&height=200&section=header&text=Hi,%20I'm%20SungJun%20👋&fontSize=46&fontColor=2E2A28&fontAlignY=38&desc=Building%20tools%20for%20coding%20agents&descAlignY=58&descSize=18" width="100%" />
 
 <a href="https://github.com/SungJun1217">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Claude+Code+%26+Codex+power+user;Agent+harnesses+%C2%B7+plugins+%C2%B7+CLIs;Python+%C2%B7+TypeScript+%C2%B7+Go" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=F0A45C&center=true&vCenter=true&width=600&lines=Claude+Code+%26+Codex+power+user;Agent+harnesses+%C2%B7+plugins+%C2%B7+CLIs;Python+%C2%B7+TypeScript+%C2%B7+Go" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=SungJun1217&style=flat-square&color=3b82f6&label=profile+views" alt="profile views" />
-<a href="https://github.com/SungJun1217?tab=followers"><img src="https://img.shields.io/github/followers/SungJun1217?style=flat-square&color=8b5cf6&label=followers" alt="followers" /></a>
+<img src="https://komarev.com/ghpvc/?username=SungJun1217&style=flat-square&color=F0A45C&label=profile+views" alt="profile views" />
+<a href="https://github.com/SungJun1217?tab=followers"><img src="https://img.shields.io/github/followers/SungJun1217?style=flat-square&color=7FBFA4&label=followers" alt="followers" /></a>
 
 </div>
 
@@ -54,9 +54,9 @@
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/SungJun1217/SungJun1217/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph with stats" />
+<img width="100%" src="https://raw.githubusercontent.com/SungJun1217/SungJun1217/output/profile-3d-contrib/profile-green-animate.svg" alt="3D contribution graph with stats" />
 
-<img src="https://streak-stats.demolab.com?user=SungJun1217&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=SungJun1217&hide_border=true&background=FFF8F0&ring=F0A45C&fire=F0A45C&currStreakLabel=D9853E&sideLabels=2E2A28&currStreakNum=2E2A28&sideNums=2E2A28&dates=7A6E66&stroke=E8D8C8" />
 
 </div>
 
@@ -80,4 +80,4 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:3b82f6,100:0f172a&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F0A45C,100:CFE8DC&height=100&section=footer" width="100%" />
