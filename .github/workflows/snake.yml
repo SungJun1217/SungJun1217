@@ -1,4 +1,4 @@
-name: Generate snake animation
+name: Generate profile graphics
 
 on:
   schedule:
@@ -21,6 +21,13 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
+
+      - uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - run: mv profile-3d-contrib dist/
 
       - uses: crazy-max/ghaction-github-pages@v3
         with:

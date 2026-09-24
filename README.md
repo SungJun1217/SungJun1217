@@ -54,12 +54,9 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SungJun1217&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SungJun1217&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img width="100%" src="https://raw.githubusercontent.com/SungJun1217/SungJun1217/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph with stats" />
 
 <img src="https://streak-stats.demolab.com?user=SungJun1217&theme=tokyonight&hide_border=true" />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SungJun1217&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
